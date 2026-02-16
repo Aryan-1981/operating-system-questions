@@ -22,9 +22,23 @@ A comprehensive, beginner-friendly guide to **Operating Systems Unit 1** with de
 - 🎨 **Visual organization** - Color-coded boxes for basics, examples, key points, and notes
 - 📱 **Mobile-friendly** - Responsive design works on all devices
 
-## 🚀 View the Guide
+## 🚀 View the Guides
 
-Simply open `index.html` in any web browser to view the complete guide!
+This repository contains two comprehensive guides:
+
+1. **index.html** - Complete Operating Systems Unit 1 Guide
+   - All 8 major topics with detailed explanations
+   - Beautiful purple gradient design
+   - Real-world analogies and examples
+
+2. **study-guide.html** - NEW! Process Scheduling Study Guide
+   - Process vs Program concepts
+   - Process States and PCB
+   - Context Switching explained
+   - CPU Scheduling Algorithms (FCFS, SJF, Round Robin)
+   - Complete with comparisons and examples
+
+Simply open either HTML file in any web browser!
 
 Or visit the live version: [GitHub Pages Link - Will be available after deployment]
 
